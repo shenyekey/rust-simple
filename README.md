@@ -48,5 +48,5 @@
 
 若您喜欢，可以支持一下啦！
 
-<img src="https://github.com/shenyekey/rust-simple/blob/main/image/weixin_support.jpeg" width="200" height="200">
+<img src="https://github.com/shenyekey/rust-simple/blob/main/image/weixin_support.jpeg" width="240" height="240">
 
