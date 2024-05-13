@@ -1,0 +1,18 @@
+[package]
+name = "rust_demo_33"
+version = "0.1.0"
+edition = "2021"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# 配置工作区间的 crates
+[workspace]
+members = ["main", "main_lib"] 
+
+# 指定启动项
+[[bin]]
+name = "main"
+path = "main/src/main.rs"
+
+[dependencies]
