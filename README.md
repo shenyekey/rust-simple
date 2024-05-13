@@ -15,11 +15,11 @@
 
 合集视频发布在 B 站和抖音，可以搜索 「深夜飚键盘」，进行观看。
 
-![](https://github.com/shenyekey/rust-simple/blob/main/image/concat.png)
+<img src="https://github.com/shenyekey/rust-simple/blob/main/image/concat.png" height="80"> 
 
 当然也可以，扫码观看
 
-<img src="https://github.com/shenyekey/rust-simple/blob/main/image/blibli.png" width="180" height="240"><img src="https://github.com/shenyekey/rust-simple/blob/main/image/douyin.png" width="180" height="240"><img src="https://github.com/shenyekey/rust-simple/blob/main/image/weixin.jpeg" width="180" height="240"/>
+<img src="https://github.com/shenyekey/rust-simple/blob/main/image/blibli.png" width="200" height="300"><img src="https://github.com/shenyekey/rust-simple/blob/main/image/douyin.png" width="200" height="300"><img src="https://github.com/shenyekey/rust-simple/blob/main/image/weixin.jpeg" width="200" height="300"/>
 
 ## 3. 下个计划
 
@@ -48,7 +48,5 @@
 
 若您喜欢，可以支持一下啦！
 
-![](https://github.com/shenyekey/rust-simple/blob/main/image/weixin_support.jpeg)
-
-
+<img src="https://github.com/shenyekey/rust-simple/blob/main/image/weixin_support.jpeg" width="200" height="200">
 
